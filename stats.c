@@ -27,6 +27,32 @@
 /* Size of the Data Set */
 #define SIZE (40)
 
+
+void print_statistics(unsigned char *data, unsigned int size) {
+}
+
+void print_array(unsigned char *data, unsigned int size) {
+}
+
+unsigned char find_median(unsigned char *data, unsigned int size) {
+    return 0;
+}
+
+unsigned char find_mean(unsigned char *data, unsigned int size) {
+    return 0;
+}
+
+unsigned char find_maximum(unsigned char *data, unsigned int size) {
+    return 0;
+}
+
+unsigned char find_minimum(unsigned char *data, unsigned int size) {
+    return 0;
+}
+
+void sort_array(unsigned char *data, unsigned int size) {
+}
+
 void main() {
 
   unsigned char test[SIZE] = { 34, 201, 190, 154,   8, 194,   2,   6,
